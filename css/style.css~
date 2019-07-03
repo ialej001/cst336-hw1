@@ -47,7 +47,7 @@ font-size: large;
 margin-left: 100px;
 margin-right: 100px;
 }
-#javadesc {
+.desc {
 margin: 100px;
 }
 .title {
